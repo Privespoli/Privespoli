@@ -38,7 +38,7 @@ Aplicación diseñada para coordinar y planificar viajes grupales de forma efici
 
 Herramientas incluidas: Creación de itinerarios, gestión de puntos de interés y almacenamiento seguro de documentos de viaje. 
 
-Estado: en desarrollo· 
+Estado: en desarrollo
 
 Tipo: SaaS / PWA
 
@@ -72,10 +72,15 @@ Tipo: SaaS / PWA
 ## 👩🏻‍💻 Sobre mí | About me
 
 - 🔭 Actualmente estoy trabajando en pequeños proyectos propios para poner a prueba mis habilidades. | I'm currently working on small personal projects to test my skills.
+
 - 👯 Estoy buscando colaborar en empresas del sector donde pueda seguir desarrollando mis conocimientos. | I'm looking to collaborate with companies in the field where I can further develop my knowledge.
+
 - 💬 Mis soft skills son: trabajo en equipo, comunicación efectiva, resiliencia y adaptabilidad. | My soft skills are: teamwork, effective communication, resilience and adaptability.
+
 - 📫 Cómo contactarme: priscilavespoli92@gmail.com · [LinkedIn](https://linkedin.com/in/priscila-nunes-a376b7233)
+
 - ⚡ Curiosidad: En mi tiempo libre me encanta practicar deportes, descubrir nuevos lugares y disfrutar del buen arte (teatro, cine...) | Fun fact: In my free time I love playing sports, discovering new places and enjoying good art (theatre, cinema...)
+  
 ---
 <div align="center">
 
