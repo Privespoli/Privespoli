@@ -8,6 +8,7 @@ Movida por desafíos y aprendizaje diario | Driven by challenges and daily learn
 <p>📍 Barcelona, Spain </p>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priscila-nunes-a376b7233)
+[![CodePen](https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Privespoli)
 
 </div>
 
@@ -51,6 +52,7 @@ Tipo: SaaS / PWA
 ![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
