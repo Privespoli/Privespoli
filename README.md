@@ -33,13 +33,11 @@ Construyo soluciones digitales completas, escalables y siempre centradas en la e
 
 ## 🖥️ Produtos y proyectos | Products & Projects
 
-### TravelApp (https://travelapp-frontend-pi.vercel.app/)
+### Travel Us (https://travelus-pri.vercel.app/)
 App para la gestión de viajes en grupo
 Aplicación diseñada para coordinar y planificar viajes grupales de forma eficiente.
 
-Herramientas incluidas: Creación de itinerarios, gestión de puntos de interés y almacenamiento seguro de documentos de viaje. 
-
-Estado: en desarrollo
+Herramientas incluidas: Creación de itinerarios, compartir gastos, chat de mensajes, gestión de puntos de interés y almacenamiento seguro de documentos de viaje. 
 
 Tipo: SaaS / PWA
 
